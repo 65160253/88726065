@@ -3,7 +3,7 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 20px;
-    background-color: #f8f8f8;
+    background-color: #741c1c;
     }
     h1 {
     color: #333;
@@ -45,7 +45,7 @@ body {
     }
     button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #c4cf28;
     color: white;
     border: none;
     border-radius: 8px;
