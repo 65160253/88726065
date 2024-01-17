@@ -41,6 +41,8 @@ document.addEventListener("DOMContentLoaded", function () {
     if (todoItem.completed) {
     listItem.classList.add("completed");
     }
+
+    // สร้างปุ่มลบในรายการ
     const deleteButton = document.createElement("button");
     deleteButton.textContent = "ลบ";
     deleteButton.addEventListener("click", () => deleteTodo(i));
